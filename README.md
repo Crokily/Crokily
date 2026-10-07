@@ -1,7 +1,6 @@
-<a href="https://coly.cc"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://coly.cc/sky.svg?theme=dark">
-<img src="https://coly.cc/sky.svg" alt="Crokily — coly.cc. A window of sky that follows the Sydney clock." width="100%">
-</picture></a>
+<p>
+<a href="https://coly.cc"><picture><source media="(prefers-color-scheme: dark)" srcset="https://coly.cc/sky.svg?theme=dark"><img src="https://coly.cc/sky.svg" alt="Crokily — coly.cc. A window of sky that follows the Sydney clock." width="100%"></picture></a>
+</p>
 
 Researching agents at the frontier and putting them to work in small businesses. Sydney · [coly.cc](https://coly.cc)
 
