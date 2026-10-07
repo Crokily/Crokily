@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 20 * * *"   # 06:17 Sydney (AEST) / 07:17 (AEDT), once a day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh the generated blocks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 build_readme.py
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Refresh README numbers and releases"
+          git push
