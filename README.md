@@ -24,14 +24,14 @@ Researching agents at the frontier and putting them to work in small businesses.
 
 ### Recent releases
 <!-- releases starts -->
+- [pi-durable-bot v0.8.7](https://github.com/Crokily/pi-durable-bot/releases/tag/v0.8.7) · 2026-11-19
+- [pi-durable-bot v0.8.6](https://github.com/Crokily/pi-durable-bot/releases/tag/v0.8.6) · 2026-11-18
 - [pi-durable-bot v0.8.5](https://github.com/Crokily/pi-durable-bot/releases/tag/v0.8.5) · 2026-11-17
-- [pi-durable-bot v0.8.4](https://github.com/Crokily/pi-durable-bot/releases/tag/v0.8.4) · 2026-11-16
 - [pi-discord-gateway v2.1.0](https://github.com/Crokily/pi-discord-gateway/releases/tag/v2.1.0) · 2026-09-27
 - [pi-discord-gateway v2.0.0](https://github.com/Crokily/pi-discord-gateway/releases/tag/v2.0.0) · 2026-09-14
 - [herdr-lazygit v0.4.0](https://github.com/Crokily/herdr-lazygit/releases/tag/v0.4.0) · 2026-09-14
 - [herdr-lazygit v0.3.0](https://github.com/Crokily/herdr-lazygit/releases/tag/v0.3.0) · 2026-07-17
 - [pi-discord-gateway v1.7.0](https://github.com/Crokily/pi-discord-gateway/releases/tag/v1.7.0) · 2026-07-17
-- [pi-tag v0.2.1](https://github.com/Crokily/pi-tag/releases/tag/v0.2.1) · 2026-07-12
 <!-- releases ends -->
 
 More on [coly.cc](https://coly.cc) · [LinkedIn](https://www.linkedin.com/in/crokily) · [X](https://x.com/Crokily_)
