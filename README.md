@@ -24,9 +24,9 @@ Researching agents at the frontier and putting them to work in small businesses.
 
 ### Recent releases
 <!-- releases starts -->
+- [pi-durable-bot v0.8.9](https://github.com/Crokily/pi-durable-bot/releases/tag/v0.8.9) · 2026-11-23
 - [pi-durable-bot v0.8.8](https://github.com/Crokily/pi-durable-bot/releases/tag/v0.8.8) · 2026-11-20
 - [pi-durable-bot v0.8.7](https://github.com/Crokily/pi-durable-bot/releases/tag/v0.8.7) · 2026-11-19
-- [pi-durable-bot v0.8.6](https://github.com/Crokily/pi-durable-bot/releases/tag/v0.8.6) · 2026-11-18
 - [pi-discord-gateway v2.1.0](https://github.com/Crokily/pi-discord-gateway/releases/tag/v2.1.0) · 2026-09-27
 - [pi-discord-gateway v2.0.0](https://github.com/Crokily/pi-discord-gateway/releases/tag/v2.0.0) · 2026-09-14
 - [herdr-lazygit v0.4.0](https://github.com/Crokily/herdr-lazygit/releases/tag/v0.4.0) · 2026-09-14
